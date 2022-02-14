@@ -1,0 +1,54 @@
+body{
+    color: white;
+    background: #00b894;
+}
+
+
+.row{
+    margin-top: 8%;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+h4{
+    text-align: center;
+    font-size: 30px;
+       padding-top: 20px;
+}
+hr{
+    padding-top: 5px;
+}
+.header{
+    color: black;
+    text-align: center;
+
+}
+.head{
+    padding-top: 0px;
+}
+p{
+    padding-bottom: 8px;
+}
+
+.buttonforgolpo1{
+    margin-top: 2%;
+    text-align: center;
+    margin-bottom: 4%;
+}
+
+.buttonforgolpo1 a{
+    text-decoration: none;
+    font-size: 30px;
+    color: white;
+    text-transform: capitalize;
+    background: linear-gradient(to left,#e84393,#00cec9);
+    padding: 12px 44px;
+    border-radius: 20px;
+    transition: all 0.95s;
+
+}
+.buttonforgolpo1 a:hover{
+    background: linear-gradient(to left,#00cec9,#e84393);
+
+}
